@@ -1,6 +1,6 @@
 {
   "name": "ometajs-debug",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Debug an ometa parser with tracing dumps",
   "main": "index.js",
   "repository": {
