@@ -1,0 +1,15 @@
+{
+  "name": "ometajs-debug",
+  "version": "0.0.0",
+  "description": "Debug an ometa parser with tracing dumps",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/aredridel/ometajs-debug"
+  },
+  "author": "Aria Stewart <aredridel@nbtsc.org>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/aredridel/ometajs-debug/issues"
+  }
+}
